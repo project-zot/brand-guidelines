@@ -26,17 +26,17 @@ Light Color: #FFFFFF
 
 === Standard
 
-image::assets/zot-01.png[zot logo dark blue text on white background]
-image::assets/zot-02.png[zot logo white text on dark blue background]
-image::assets/zot-03.png[zot white logo white text on orange background]
-image::assets/zot-04.png[zot dark blue logo dark blue text on white background]
+image::assets/zot-01.png[width=10% alt=zot logo dark blue text on white background]
+image::assets/zot-02.png[width=10% alt=zot logo white text on dark blue background]
+image::assets/zot-03.png[width=10% alt=zot white logo white text on orange background]
+image::assets/zot-04.png[width=10% alt=zotzot dark blue logo dark blue text on white background]
 
 === Transparent Background
 
-image::assets/zot-1T.png[zot logo dark blue text on transparent background]
-image::assets/zot-2T.png[zot logo white text on transparent background]
-image::assets/zot-3T.png[zot white logo white text on transparent background]
-image::assets/zot-4T.png[zot dark blue logo dark blue text on transparent background]
+image::assets/zot-01T.png[width=10% alt=zotzot logo dark blue text on transparent background]
+image::assets/zot-02T.png[width=10% alt=zotzot logo white text on transparent background]
+image::assets/zot-03T.png[width=10% alt=zotzot white logo white text on transparent background]
+image::assets/zot-04T.png[width=10% alt=zotzot dark blue logo dark blue text on transparent background]
 
 === Vector Assets
 
