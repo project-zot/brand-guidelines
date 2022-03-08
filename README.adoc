@@ -10,17 +10,17 @@ zot is preferably presented all lowercase.  Zot is also acceptable.
 
 === Logo Colors
 
-Primary: #A53692
+Primary: +++<span style="background-color:#A53692; color:black; padding:0px 10px">#A53692</span>+++
 
-Secondary: #4A5F12
+Secondary: +++<span style="background-color:#4A5F12; color:black; padding:0px 10px">#4A5F12</span>+++
 
-Tertiary: #F58634 
+Tertiary: +++<span style="background-color:#F58634; color:black; padding:0px 10px">#F58634</span>+++ 
 
 === Text Colors
 
-Dark Color: #001E44
+Dark Color: +++<span style="background-color:#001E44; color:white; padding:0px 10px">#001E44</span>+++
 
-Light Color: #FFFFFF
+Light Color: +++<span style="background-color:#FFFFFF; color:black; padding:0px 10px">#FFFFFF</span>+++
 
 == Logos
 
@@ -29,14 +29,14 @@ Light Color: #FFFFFF
 image::assets/zot-01.png[width=10% alt=zot logo dark blue text on white background]
 image::assets/zot-02.png[width=10% alt=zot logo white text on dark blue background]
 image::assets/zot-03.png[width=10% alt=zot white logo white text on orange background]
-image::assets/zot-04.png[width=10% alt=zotzot dark blue logo dark blue text on white background]
+image::assets/zot-04.png[width=10% alt=zot dark blue logo dark blue text on white background]
 
 === Transparent Background
 
-image::assets/zot-01T.png[width=10% alt=zotzot logo dark blue text on transparent background]
-image::assets/zot-02T.png[width=10% alt=zotzot logo white text on transparent background]
-image::assets/zot-03T.png[width=10% alt=zotzot white logo white text on transparent background]
-image::assets/zot-04T.png[width=10% alt=zotzot dark blue logo dark blue text on transparent background]
+image::assets/zot-01T.png[width=10% alt=zot logo dark blue text on transparent background]
+image::assets/zot-02T.png[width=10% alt=zot logo white text on transparent background]
+image::assets/zot-03T.png[width=10% alt=zot white logo white text on transparent background]
+image::assets/zot-04T.png[width=10% alt=zot dark blue logo dark blue text on transparent background]
 
 === Vector Assets
 
